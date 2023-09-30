@@ -95,7 +95,7 @@ public class ReLaunch extends Activity {
 	static public final String FILT_FILE = "Filters.txt";
 	static public final String COLS_FILE = "Columns.txt";
 	final String defReaders = ".fb2,.fb2.zip:org.coolreader%org.coolreader.CoolReader%Cool Reader"
-			+ "|.epub:Intent:application/epub"
+			+ "|.epub:Intent:application/epub+zip"
 			+ "|.jpg,.jpeg:Intent:image/jpeg"
 			+ "|.png:Intent:image/png"
 			+ "|.pdf:Intent:application/pdf"
